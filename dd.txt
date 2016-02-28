@@ -1,0 +1,81 @@
+Diamond District App	
+
+	Sell - (List)
+
+	Buy - (Browse Inventory)
+
+	Jobs - 
+		Offer or Find
+			Offer - (Offer)
+			Find - (Offer List)
+
+	Alerts -
+		Browse Alerts - 
+		Post Alert - 
+
+	Directory - (Business Database)
+		- Labor Status
+
+
+SELL - 
+	LIST -
+		Title -
+		Category -
+		Price - 
+		Picture(s) - 
+		Video (s) - 
+		QTY - 
+			0 - Inquire for Availability (Not Guarunteed)
+			1 - Guarunteed
+				- Amount
+			2 - Time to Delivery
+		Specifications - (Optional?)
+			Jewelry
+				- Gold Karat
+				- Weight
+				- Diamonds
+				- Stone Type
+				- Dimensions?
+					- Length
+					- Height 
+					- Width
+				- Notes
+			Watches
+				Manufacturer -
+				Model -
+				Year - 
+				Serial # - 
+				Notes - 
+
+	MANAGE INVENTORY -
+		Item List-
+		Edit - 
+			ITEM (edit) - 
+		Delete - (Confirmation)
+
+BUY - 
+	(Browse View)
+		- Keyword Search
+		- Select Price
+		- Select Category
+			(Item View)
+				[Item]
+				[Company]
+		 
+ALERTS - 
+	Create New Alert
+		- (Input) Keywords [Option: Private]
+			- (Details)
+				- (Willing to Pay)
+				- (Item details)
+	Alert Goes off if Keyword Match on NEW item
+
+
+
+
+
+
+
+
+
+
